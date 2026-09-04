@@ -6,7 +6,7 @@
     }
 
     body {
-      background-color: #0b0c10;
+      background-color: #a1a091;
       color: #fff;
       height: 100vh;
       display: flex;
@@ -24,7 +24,7 @@
 
     .title {
       font-size: 2.2rem;
-      color: #ffbd03;
+      color: #92ff03;
       text-shadow: 4px 4px #7a0000;
       line-height: 1.4;
     }
@@ -36,6 +36,7 @@
       padding: 18px 36px;
       font-size: 1rem;
       cursor: pointer;
+      border-radius: 4px;
       box-shadow: 6px 6px 0px #000;
       transition: transform 0.1s, box-shadow 0.1s;
     }
